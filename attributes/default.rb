@@ -16,4 +16,4 @@
 #
 
 default['rethinkdb']['install_method'] = "package"
-default['rethinkdb']['version'] = '1.11.3'
+default['rethinkdb']['version'] = '1.12.3'

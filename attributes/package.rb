@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-default['rethinkdb']['package']['version'] = "1.11.3"
+default['rethinkdb']['package']['version'] = "1.12.3"
 default['rethinkdb']['package']['apt']['url'] = "http://ppa.launchpad.net/rethinkdb/ppa/ubuntu/"
 default['rethinkdb']['package']['apt']['key_server'] = "keyserver.ubuntu.com"
 default['rethinkdb']['package']['apt']['key'] = "11D62AD6"
